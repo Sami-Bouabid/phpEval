@@ -1,0 +1,16 @@
+.card {
+    /* border-top: solid black 3px; */
+    border-bottom: solid black 3px;
+    /* margin-bottom: 5px; */
+    padding: 10px;
+}
+
+.alert {
+    color: red;
+    font-weight: bold;
+}
+
+.success {
+    color: green;
+    font-weight: bold;
+}
